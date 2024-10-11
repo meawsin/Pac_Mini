@@ -1,16 +1,16 @@
-# PacMan Arcade Game
+# Pac_mini
 
-A simple PacMan-inspired arcade game built using Java and Processing. Navigate the PacMan character, eat pellets, avoid the ghost, and try to get the highest score!
+A simple PacMan-inspired arcade game built using Java and Processing. Navigate the character, eat pellets, avoid the ghost, and try to get the highest score!
 
 ## Features
-- **PacMan movement**: Control the PacMan's direction.
-- **Ghost AI**: The ghost follows a simple pattern and becomes harmless when PacMan eats the fruit.
-- **Increasing difficulty**: The speed of PacMan and the ghost increases over time.
+- **Character movement**: Control the character's direction.
+- **Ghost AI**: The ghost follows a simple pattern and becomes harmless when Pac_mini eats the fruit.
+- **Increasing difficulty**: The speed of Pac_mini and the ghost increases over time.
 - **Pause/Resume Game**: Pause the game and resume when needed.
 - **Score tracking**: Display the current score and high score.
 
 ## Controls
-- **Spacebar**: Change PacMan's direction.
+- **Spacebar**: Change the character's direction.
 - **P**: Pause/Resume the game.
 - **R**: Restart the game.
 
