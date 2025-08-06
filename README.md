@@ -1,6 +1,9 @@
 # Pac_mini
 
-A simple PacMan-inspired arcade game built using Java and Processing. Navigate the character, eat pellets, avoid the ghost, and try to get the highest score!
+Pac_Mini is a simple PacMan-inspired arcade game built using Java and Processing. The game allows players to navigate the Pac-Man character, eat pellets, avoid the ghosts, and try to achieve the highest score.
+# Development Insights:
+
+This project was a great opportunity to practice Object-Oriented Programming (OOP) principles. A significant challenge was implementing the ghost's movement logic, which required several trial-and-error attempts to get right. I also gained experience in designing a graphical user interface (GUI) and managing game state using the Processing library.
 
 ## Features
 - **Character movement**: Control the character's direction.
